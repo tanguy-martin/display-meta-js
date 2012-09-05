@@ -28,7 +28,7 @@
 
         // styles for the container of all the meta divs
         containerStyles = '.show-meta { ' + [
-            'position: absolute',
+            'position: fixed',
             'top: 5px',
             'left: 5px',
             'z-index: 99999'
