@@ -1,3 +1,3 @@
 # Display meta elements with JavaScript
 
-Related blog post: http://tanguymartin.com/display-meta-elements-with-javascript
+This, my friend, is a bookmarklet that renders info about HTML meta elements (which, as you know, are not rendered by the browsers).
